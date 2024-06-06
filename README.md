@@ -1,0 +1,1 @@
+Spendaz is an expense tracker web app for the ALX foundation program by MOSES KIMANI.
