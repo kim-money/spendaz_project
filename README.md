@@ -1,1 +1,0 @@
-SPENDAZ is a project for ALX foundation. by moses kimani
