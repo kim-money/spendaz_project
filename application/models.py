@@ -1,6 +1,6 @@
 from application import db
 from datetime import datetime
-import enum
+
 
 
 class IncomeExpenses(db.Model):
